@@ -6,6 +6,7 @@
     "start": "parcel"
   },
   "dependencies": {
+    "node-sass": "^4.9.0",
     "vue": "^2.5.10",
     "vue-hot-reload-api": "^2.3.0"
   },
